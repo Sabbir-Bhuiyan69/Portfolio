@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "name": "HTML5",
+      "detail": "Web Structure"
+    },
+    {
+      "name": "CSS3",
+      "detail": "Responsive UI"
+    },
+    {
+      "name": "JavaScript",
+      "detail": "Web Interactivity"
+    },
+    {
+      "name": "JSON",
+      "detail": "Structured Data"
+    },
+    {
+      "name": "Git",
+      "detail": "Version Control"
+    },
+    {
+      "name": "GitHub",
+      "detail": "Repositories"
+    },
+    {
+      "name": "VS Code",
+      "detail": "Development"
+    },
+    {
+      "name": "UML",
+      "detail": "System Modeling"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Smart Parking System",
+      "visual": "P",
+      "visualClass": "parking",
+      "description": "A software system designed around parking search, reservations, payments, QR-based access, parking operations, notifications and administration.",
+      "tags": [
+        "System Analysis",
+        "UML",
+        "SRS",
+        "Software Design"
+      ],
+      "linkText": "Project repository coming soon \u2192",
+      "link": "#"
+    },
+    {
+      "title": "Personal Portfolio",
+      "visual": "</>",
+      "visualClass": "code",
+      "description": "A modern responsive portfolio built with HTML, CSS and JavaScript, with skills and project information loaded from a JSON data file.",
+      "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "linkText": "You're viewing it now \u2192",
+      "link": "#home"
+    },
+    {
+      "title": "Next Project",
+      "visual": "+",
+      "visualClass": "plus",
+      "description": "More projects will appear here as I continue learning, building and expanding my software engineering experience.",
+      "tags": [
+        "Coming Soon"
+      ],
+      "linkText": "",
+      "link": "#"
+    }
+  ]
+}
